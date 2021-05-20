@@ -1,16 +1,16 @@
-# Koj Individual Contributor License Agreement
+# Raindigi Individual Contributor License Agreement
 
-Thank you for your interest in contributing to open source software projects ("Projects") made available by Koj AG or its affiliates ("Koj"). This Individual Contributor License Agreement ("Agreement") sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit or have submitted, in any form and in any manner, to Koj in respect of any of the Projects (collectively "Contributions"). If you have any questions respecting this Agreement, please contact opensource@koj.co.
+Thank you for your interest in contributing to open source software projects ("Projects") made available by Raindigi IT Pvt Ltd. or its affiliates ("raindigi"). This Individual Contributor License Agreement ("Agreement") sets out the terms governing any source code, object code, bug fixes, configuration changes, tools, specifications, documentation, data, materials, feedback, information or other works of authorship that you submit or have submitted, in any form and in any manner, to raindigi in respect of any of the Projects (collectively "Contributions"). If you have any questions respecting this Agreement, please contact opensource@raindigi.com.
 
 You agree that the following terms apply to all of your past, present and future Contributions. Except for the licenses granted in this Agreement, you retain all of your right, title and interest in and to your Contributions.
 
 ## Copyright License
 
-You hereby grant, and agree to grant, to Koj a non-exclusive, perpetual, irrevocable, worldwide, fully-paid, royalty-free, transferable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute your Contributions and such derivative works, with the right to sublicense the foregoing rights through multiple tiers of sublicensees.
+You hereby grant, and agree to grant, to Raindigi a non-exclusive, perpetual, irrevocable, worldwide, fully-paid, royalty-free, transferable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, and distribute your Contributions and such derivative works, with the right to sublicense the foregoing rights through multiple tiers of sublicensees.
 
 ## Patent License
 
-You hereby grant, and agree to grant, to Koj a non-exclusive, perpetual, irrevocable, worldwide, fully-paid, royalty-free, transferable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer your Contributions, where such license applies only to those patent claims licensable by you that are necessarily infringed by your Contributions alone or by combination of your Contributions with the Project to which such Contributions were submitted, with the right to sublicense the foregoing rights through multiple tiers of sublicensees.
+You hereby grant, and agree to grant, to Raindigi a non-exclusive, perpetual, irrevocable, worldwide, fully-paid, royalty-free, transferable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer your Contributions, where such license applies only to those patent claims licensable by you that are necessarily infringed by your Contributions alone or by combination of your Contributions with the Project to which such Contributions were submitted, with the right to sublicense the foregoing rights through multiple tiers of sublicensees.
 
 ## Moral Rights
 
@@ -30,15 +30,15 @@ To the fullest extent permitted under applicable law, your Contributions are pro
 
 ## No Obligation
 
-You acknowledge that Koj is under no obligation to use or incorporate your Contributions into any of the Projects. The decision to use or incorporate your Contributions into any of the Projects will be made at the sole discretion of Koj or its authorized delegates.
+You acknowledge that Raindigi is under no obligation to use or incorporate your Contributions into any of the Projects. The decision to use or incorporate your Contributions into any of the Projects will be made at the sole discretion of Koj or its authorized delegates.
 
 ## Disputes
 
-This Agreement shall be governed by and construed in accordance with the laws of Bern, Switzerland, without giving effect to its principles or rules regarding conflicts of laws, other than such principles directing application of Swiss law. The parties hereby submit to venue in, and jurisdiction of the courts located in Switzerland for purposes relating to this Agreement. In the event that any of the provisions of this Agreement shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, the remaining portions hereof shall remain in full force and effect.
+This Agreement shall be governed by and construed in accordance with the laws of Patna, India, without giving effect to its principles or rules regarding conflicts of laws, other than such principles directing application of indian law. The parties hereby submit to venue in, and jurisdiction of the courts located in India for purposes relating to this Agreement. In the event that any of the provisions of this Agreement shall be held by a court or other tribunal of competent jurisdiction to be unenforceable, the remaining portions hereof shall remain in full force and effect.
 
 ## Assignment
 
-You agree that Koj may assign this Agreement, and all of its rights, obligations and licenses hereunder.
+You agree that Raindigi may assign this Agreement, and all of its rights, obligations and licenses hereunder.
 
 ## Credit
 
