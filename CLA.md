@@ -14,7 +14,7 @@ You hereby grant, and agree to grant, to Raindigi a non-exclusive, perpetual, ir
 
 ## Moral Rights
 
-To the fullest extent permitted under applicable law, you hereby waive, and agree not to assert, all of your "moral rights" in or relating to your Contributions for the benefit of Koj, its assigns, and their respective direct and indirect sublicensees.
+To the fullest extent permitted under applicable law, you hereby waive, and agree not to assert, all of your "moral rights" in or relating to your Contributions for the benefit of Raindigi, its assigns, and their respective direct and indirect sublicensees.
 
 ## Third Party Content/Rights
 
@@ -30,7 +30,7 @@ To the fullest extent permitted under applicable law, your Contributions are pro
 
 ## No Obligation
 
-You acknowledge that Raindigi is under no obligation to use or incorporate your Contributions into any of the Projects. The decision to use or incorporate your Contributions into any of the Projects will be made at the sole discretion of Koj or its authorized delegates.
+You acknowledge that Raindigi is under no obligation to use or incorporate your Contributions into any of the Projects. The decision to use or incorporate your Contributions into any of the Projects will be made at the sole discretion of Raindigi or its authorized delegates.
 
 ## Disputes
 
