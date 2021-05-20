@@ -5,7 +5,7 @@
 We take security seriously and want to ensure that we maintain a secure environment for everyone, and that we also provide secure solutions for the open-source community. To help us achieve these goals, please note the following before using this software:
 
 - Review the software license to understand our obligations in terms of warranties and suitability for purpose
-- For any questions or concerns about security, you can reach out directly to us at opensource@koj.co
+- For any questions or concerns about security, you can reach out directly to us at opensource@raindigi.com
 - We request that you work with our security team and opt for responsible disclosure using the guidelines below
 - At this moment, there is no Bug Bounty Program for this open-source repository
 - We enforce SLAs on our security team and software engineers to remediate security bugs in a timely manner
@@ -16,7 +16,7 @@ We take security seriously and want to ensure that we maintain a secure environm
 
 If you find a security bug in this repository, please work us following responsible disclosure principles and these guidelines: 
 
-- Do not submit a normal issue or pull request in our public repository, instead report through our Bug Bounty or directly to opensource@koj.co (If you would like to encrypt, please see the end of these guidelines)
+- Do not submit a normal issue or pull request in our public repository, instead report through our Bug Bounty or directly to opensource@raindigi.com (If you would like to encrypt, please see the end of these guidelines)
 - We will review your submission and may follow up for additional details
 - If you have a patch, we will review it and approve it privately; once approved for release you can submit it as a pull request publicly in our repos (we give credit where credit is due)
 - We will keep you informed during our investigation, feel free to check in for a status update
@@ -25,7 +25,7 @@ If you find a security bug in this repository, please work us following responsi
 
 ## Contact
 
-If you have any questions, please reach out directly to us at opensource@koj.co.
+If you have any questions, please reach out directly to us at opensource@raindigi.com.
 
 ## Credits
 
