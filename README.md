@@ -1,6 +1,6 @@
-# 🏥 Koj `.github`
+# 🏥 Raindigi `.github`
 
-This repository contains the common community health files for Koj's open source projects. These policies are adopted by Koj:
+This repository contains the common community health files for Raindigi open source projects. These policies are adopted by raindigi:
 
 - [Code of Conduct](./CODE_OF_CONDUCT.md)
 - [Contributing Guidelines](./CONTRIBUTING.md)
